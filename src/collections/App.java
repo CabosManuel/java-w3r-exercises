@@ -17,5 +17,6 @@ public class App {
 		E10.solution(E09.getCopy());
 		E11.solution(E09.getCopy());
 		E12.solution(E09.getCopy());
+		E13.solution(E01.getColors(),	E09.getCopy());
 	}
 }
